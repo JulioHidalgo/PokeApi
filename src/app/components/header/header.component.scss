@@ -1,0 +1,18 @@
+@import "../../../_variables.scss"; 
+
+
+.mat-toolbar {
+  background: #020024;
+}
+
+.title {
+    color: $white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin: auto;
+}
+
+img:hover {
+  cursor: pointer;
+}
